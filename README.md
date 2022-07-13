@@ -1,7 +1,7 @@
 # react-dishpoll
 
 
-live deom : https://reliable-syrniki-b1048c.netlify.app/
+live demo : https://reliable-syrniki-b1048c.netlify.app/
 name @santhosh 
 
 
